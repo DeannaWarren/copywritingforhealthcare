@@ -18,5 +18,8 @@ h2 {
 }
 
 main p, li {
-  font-size: 1.25em
+  font-size: 1.25em;
+}
+th,td {
+	font-size: 1.25em;
 }

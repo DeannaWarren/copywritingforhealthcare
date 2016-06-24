@@ -1,11 +1,16 @@
 body {
-  /*font-family: Verdana, Geneva, sans-serif;*/
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  /*font-family: Verdana, Geneva, sans-serif;*/
 }
 
 main {
   width: 90%;
   margin: 0 auto;
+  padding-bottom: 50px;
+}
+
+p {
+  /*text-indent: 1em;*/
 }
 
 h1 {
@@ -22,4 +27,12 @@ main p, li {
 }
 th,td {
 	font-size: 1.25em;
+}
+footer {
+	text-align: center;
+    height: 100px;
+    width: 100%;
+}
+img {
+  width: 100%;
 }
